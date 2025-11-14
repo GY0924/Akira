@@ -1,5 +1,4 @@
-# Akira's Personal Behaviors
+# Akira
 
-## Avatar
-## Wallpaper
-## Corporation_Logo
+## Personal Behaviors
+## Jobs
